@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "brand": "Aston Martin",
+        "model": "V8 Vantage S",
+        "year": 2012,
+        "email": "hcharnley0@google.it"
+    },
+    {
+        "id": 2,
+        "brand": "Chrysler",
+        "model": "Concorde",
+        "year": 1999,
+        "email": "mshirer1@miibeian.gov.cn"
+    },
+    {
+        "id": 3,
+        "brand": "Chevrolet",
+        "model": "Express",
+        "year": 2009,
+        "email": "ncristofvao2@arstechnica.com"
+    },
+    {
+        "id": 4,
+        "brand": "Hyundai",
+        "model": "Azera",
+        "year": 2011,
+        "email": "tcaddens3@army.mil"
+    },
+    {
+        "id": 5,
+        "brand": "Oldsmobile",
+        "model": "Achieva",
+        "year": 1998,
+        "email": "jianittello4@buzzfeed.com"
+    },
+    {
+        "id": 6,
+        "brand": "Honda",
+        "model": "Passport",
+        "year": 1998,
+        "email": "mcridge5@europa.eu"
+    },
+    {
+        "id": 7,
+        "brand": "Dodge",
+        "model": "Dakota Club",
+        "year": 2007,
+        "email": "rfreund6@npr.org"
+    },
+    {
+        "id": 8,
+        "brand": "Hyundai",
+        "model": "Veracruz",
+        "year": 2010,
+        "email": "cgretton7@gnu.org"
+    },
+    {
+        "id": 9,
+        "brand": "Toyota",
+        "model": "Highlander",
+        "year": 2007,
+        "email": "ncotillard8@livejournal.com"
+    }
+]
